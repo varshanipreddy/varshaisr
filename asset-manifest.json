@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ISRSEO_p3/static/css/main.835ca680.css",
+    "main.js": "/ISRSEO_p3/static/js/main.7e155ef8.js",
+    "static/js/787.67b3e803.chunk.js": "/ISRSEO_p3/static/js/787.67b3e803.chunk.js",
+    "index.html": "/ISRSEO_p3/index.html",
+    "main.835ca680.css.map": "/ISRSEO_p3/static/css/main.835ca680.css.map",
+    "main.7e155ef8.js.map": "/ISRSEO_p3/static/js/main.7e155ef8.js.map",
+    "787.67b3e803.chunk.js.map": "/ISRSEO_p3/static/js/787.67b3e803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835ca680.css",
+    "static/js/main.7e155ef8.js"
+  ]
+}
